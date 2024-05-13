@@ -1,0 +1,39 @@
+p{
+    padding-left: 20px;
+    font-size: 13px;
+    
+
+}
+a{
+    padding-right: 10px;
+}
+.card-holder{
+    margin-top: 15px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.task-holder{
+
+    width: 100%;
+    height: 55%;
+    padding: 10px, 10px;
+    padding-left: 20px;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+.card-wrapper{
+    
+    margin-top: 17px;
+    margin-right:17px ;
+    background-color: #eeeeee;
+    width: 270px;
+    height: 150px;
+    
+    border-radius: 6px;
+    border: 1px solid rgb(173, 170, 170);
+    display: flex;
+    flex-direction: column;
+    
+  }
